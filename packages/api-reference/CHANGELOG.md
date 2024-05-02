@@ -1,5 +1,11 @@
 # @scalar/api-reference
 
+## 1.22.21
+
+### Patch Changes
+
+- 801ad65: feat: use schema property title if available
+
 ## 1.22.20
 
 ### Patch Changes
